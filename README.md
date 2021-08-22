@@ -3,14 +3,9 @@
 <img src="animation.gif" alt="react-native" width=200 height=200 align="right">
 
 
-
-
-
-🔭  I’m currently working on React Native, React, Node.js & GraphQL.
-
-🌱  I’m currently learning about Product building & new package idea for React.
-
-💞️ I’m looking to collaborate on JavaScript.
+I’m currently learning more about full-stack development.
+Things on my plate for later - GoLang, Java & dive more into DS/Algo.
+I’m looking to collaborate on JavaScript.
 
 🛠 Skills<br/>
 
