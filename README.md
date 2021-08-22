@@ -3,11 +3,13 @@
 <img src="animation.gif" alt="react-native" width=200 height=200 align="right">
 
 
-I’m currently learning more about full-stack development.
-Things on my plate for later - GoLang, Java & dive more into DS/Algo.
-I’m looking to collaborate on JavaScript.
 
-🛠 Skills<br/>
+- 🌱 I’m currently learning more about full-stack development.
+
+- 🍽 Things on my plate for later - GoLang, Java & dive more into DS/Algo.
+
+- 💬 Ask me about React, Node.js & JavaScript in general.
+
 
 <h3 align="left">Languages & Tools:</h3>
 
